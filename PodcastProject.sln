@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "WindowsFormsApplication3\GUI.csproj", "{A54342F0-365C-4206-8606-8EE2CAD1E954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "ClassLibrary1\Data.csproj", "{67149A6F-3CE1-4D5C-A54E-CB47D7790B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "ClassLibrary2\Logic.csproj", "{6D14235B-8A03-450A-BC7E-AB3660E20DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54342F0-365C-4206-8606-8EE2CAD1E954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54342F0-365C-4206-8606-8EE2CAD1E954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54342F0-365C-4206-8606-8EE2CAD1E954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54342F0-365C-4206-8606-8EE2CAD1E954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67149A6F-3CE1-4D5C-A54E-CB47D7790B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67149A6F-3CE1-4D5C-A54E-CB47D7790B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67149A6F-3CE1-4D5C-A54E-CB47D7790B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67149A6F-3CE1-4D5C-A54E-CB47D7790B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D14235B-8A03-450A-BC7E-AB3660E20DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D14235B-8A03-450A-BC7E-AB3660E20DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D14235B-8A03-450A-BC7E-AB3660E20DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D14235B-8A03-450A-BC7E-AB3660E20DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
